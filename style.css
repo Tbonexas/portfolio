@@ -45,3 +45,24 @@ body {
 .white {
     color: white;
 }
+
+/* viewport for 768px or below */
+@media screen and (max-width: 768px) {
+    body {
+        background: url('https://www.theappsense.com/wp-content/uploads/2017/05/portfolio.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    }
+}
+/* viewport for paragraph to scale 768px or below */
+@media screen and (max-width: 768px) {
+    p {
+        background: url('https://www.theappsense.com/wp-content/uploads/2017/05/portfolio.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    }
+}
