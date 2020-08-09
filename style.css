@@ -5,8 +5,17 @@
 p {
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
+    text-indent: 1.5em;
 }
 
 h1 {
-    text-align: left;
+    text-align: center;
 }
+
+body {
+    background: url('https://www.theappsense.com/wp-content/uploads/2017/05/portfolio.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
