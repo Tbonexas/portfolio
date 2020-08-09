@@ -64,5 +64,10 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    font-size: 16px;
+    }
+    .row {
+        width: 100%;
+        padding: 20px;
     }
 }
