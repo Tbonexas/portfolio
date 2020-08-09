@@ -19,3 +19,7 @@ body {
     background-size: cover;
     -o-background-size: cover;
   }
+
+  .blue {
+      color: blue;
+  }
