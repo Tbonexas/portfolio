@@ -22,6 +22,7 @@ h1 {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    text-indent: 1.5em;
 }
 
 body {
@@ -44,6 +45,11 @@ body {
 
 .white {
     color: white;
+}
+
+.footer {
+    border: 0px;
+    font-size: 24px;
 }
 
 /* viewport for 768px or below */
