@@ -12,6 +12,7 @@ p {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    margin-bottom: 3rem;
 }
 
 h1 {
