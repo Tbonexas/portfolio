@@ -43,11 +43,13 @@ body {
     color: black;
   }
   
+/* hover social media link color change bootstrap */  
   button:hover, a:hover {
     opacity: 0.7;
   }
 
   
+/* footer css styling to have transparent background */  
 .footer {
     border: 0px;
     font-size: 16px;
@@ -59,6 +61,7 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+/* Icon color red */
 
 .red {
     color: red;
