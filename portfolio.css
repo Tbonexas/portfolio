@@ -1,6 +1,6 @@
 
 
-
+/* cleaned up the css on portfolio page to have background properties in html only.*/
 
 
 
@@ -13,11 +13,7 @@ html {
     -o-background-size: cover;
 }
 
-
-
-
-
-
+/* this is the color property to correspond with bootstrap styling*/
 
 .white {
     color: white;
