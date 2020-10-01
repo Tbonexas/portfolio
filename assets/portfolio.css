@@ -1,61 +1,88 @@
 html {
-    background-image: url(https://cdn.hipwallpaper.com/i/65/22/g876Ek.jpg);
-    background-repeat: no-repeat;
+  background-image: url(https://cdn.wallpapersafari.com/5/10/aKe4ry.jpg);
+  background-repeat: no-repeat;
 }
 
 
 .navBar {
-  border-bottom: 4px darkslategray solid;
-  background-color: #808080;
+  /* background-color: #808080; */
   list-style-type: none;
   margin-top: -25px;
-  font-size: 24px;
+  font-size: 36px;
   text-align: center;
   height: 70px;
   width: auto;
   
 }
 
-li {
-  display: inline-block;
-  color: white;
-  padding: 18px;
-  justify-content: center;
-}
-a {
-padding: 10px;
-color: white;
-text-shadow: 1px 1.5px 3px purple;
-font-family: 'Spectral SC', serif;
-text-decoration: none;
+.menuTxt {
+  font-size: 16px;
+  font-family: 'Spectral SC', serif;
 }
 
-a:hover {
-background-color: darkslategray;
-border-radius: 10%;
+.menuTxt:hover {
+  background-color: darkslategray;
 }
+  li {
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+  }
+.navBtns {
+  padding: 20px;
+  color: white;
+  text-shadow: 1px 1.5px 3px purple;
+  text-decoration: none;
+  font-family: 'Spectral SC', serif;
+}
+
+
+
+.fa,.fab {
+  color: black;
+  text-shadow: 1px 1.5px 4px gray;
+  padding: 15px;
+  margin: auto;
+
+}
+
+
 
   #stickyfooter {
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 60px;
-    background-color: #808080;
-    border-top: 5px solid darkslategray;
+    /* background-color: #808080; */
+    
+  }
+
+  .red {
+    color: red;
   }
 
   #footerText {
       text-align: center;
       font-family: 'Spectral SC', serif;
       color: white;
-      justify-items: auto;
       text-shadow: 1px 1.5px 3px purple;
+      justify-items: auto;
+      background-color:black;
   }
 
-  /* .footerLink {
-    color: white;
-    text-shadow: 1px 1.5px 3px purple;
-    font-weight: 900;
-    text-align: center;
-    
-  } */
+  #stickyfooter {
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    opacity: 0.7;
+  }
+
+  #footerText {
+      text-align: center;
+      font-family: 'Spectral SC', serif;
+      color: white;
+      margin: auto;
+      text-shadow: 1px 1.5px 3px purple;
+  }
+  
