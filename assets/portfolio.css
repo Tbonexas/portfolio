@@ -1,6 +1,5 @@
 html {
   background-image: url(https://cdn.wallpapersafari.com/5/10/aKe4ry.jpg);
-  background-repeat: no-repeat;
 }
 
 
@@ -47,8 +46,70 @@ html {
 
 }
 
+.carousel {
+margin-left: 28%;
+margin-top: 25px;
+}
 
+.carousel-photo1 {
+  margin-bottom: 20px;
+  border:2px solid #000;
+  outline: 3px solid black;
+  outline-offset: -5px;
+  padding: 5px;
+  box-shadow: 2px 4px 6px gray;
+}
 
+.carousel-photo2 {
+  margin-bottom: 20px;
+  border: 2px gray solid;
+  padding: 5px;
+  outline: 3px solid black;
+  outline-offset: -5px;
+  padding: 5px;
+  box-shadow: 2px 4px 6px gray;
+  
+}
+
+.carousel-photo3 {
+  margin-bottom: 20px;
+  border: 2px gray solid;
+  padding: 5px;
+  outline: 3px solid black;
+  outline-offset: -5px;
+  padding: 5px;
+  box-shadow: 2px 4px 6px gray;
+}
+
+.carousel-photo4 {
+  margin-bottom: 20px;
+  border: 2px gray solid;
+  padding: 5px;
+  outline: 3px solid black;
+  outline-offset: -5px;
+  padding: 5px;
+  box-shadow: 2px 4px 6px gray;
+}
+
+.info {
+  text-align: left;
+  color: white;
+  font-size: 22px;
+  font-family: 'Spectral SC', serif;
+  text-shadow: 1px 1.5px 3px purple;
+}
+
+#subText {
+  position: relative;
+  font-size: 36px;
+  color: white;
+  text-shadow: 1px 1.5px 3px purple;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
   #stickyfooter {
     position: fixed;
     bottom: 0;
@@ -68,14 +129,14 @@ html {
       color: white;
       text-shadow: 1px 1.5px 3px purple;
       justify-items: auto;
-      background-color:black;
+      
   }
 
   #stickyfooter {
     position: fixed;
     width: 100%;
     height: 30px;
-    opacity: 0.7;
+    opacity: 0.5;
   }
 
   #footerText {
