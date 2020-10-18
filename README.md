@@ -5,7 +5,7 @@ Resume Link
 Contact information     
 GitHub Link   
 LinkedIn   
-Social Media  
+
 
 ## Showcase:  
 *The Long Cut App* [Here](https://tbonexas.github.io/longcut)  
