@@ -1,11 +1,24 @@
-Updated Portfolio:
+## Updated Portfolio 
 
-Updated portfolio including: Resume, Contact info, GitHub link, LinkedIn, and Social Media.
+**Updated portfolio:**  
+Resume Link    
+Contact information     
+GitHub Link   
+LinkedIn   
+Social Media  
 
-Showcase: Weather DashBoard, Project 1, and Rick and Morty Quiz.
+## Showcase:  
+*The Long Cut App* [Here](https://tbonexas.github.io/longcut)  
+*Weather Dashboard* [Here](https://tbonexas.github.io/weatherdash)   
+*JavaScript Quiz* [Here](https://tbonexas.github.io/quiz)  
+*Password Generator* [Here](https://tbonexas.github.io/passwordgen)  
+*Daily Planner* [Here](https://tbonexas.github.io/dailyplanner)  
+**More to come soon!**
 
-Link to updated portfolio:
+# Screenshot: ![image](https://user-images.githubusercontent.com/67118229/96358139-be707500-10b8-11eb-919d-1ef2d9b2ea39.png)
 
-Demo:
+## Credits: 
+**Todd Wayment**  
+[Github](https://github.com/tbonexas)  
+[LinkedIn](https://www.linkedin.com/in/todd-murdoch)  
 
-Credits:
