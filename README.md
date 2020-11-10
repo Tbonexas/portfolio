@@ -1,7 +1,9 @@
 ## Updated Portfolio 
 
-**Updated portfolio:**  
-*Live link here* [Here](https://tbonexas.github.io/portfolio)  
+## Portfolio Live:  
+[Todd Wayments Portfolio](https://tbonexas.github.io/portfolio)   
+
+**Updated portfolio:**   
 Resume Link    
 Contact information     
 GitHub Link   
