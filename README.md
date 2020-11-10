@@ -4,14 +4,16 @@
 [Todd Wayments Portfolio](https://tbonexas.github.io/portfolio)   
 
 **Recent updates:**   
-Resume Link    
+Resume     
 Contact information     
-GitHub Link   
-LinkedIn   
+GitHub   
+LinkedIn  
+Burger App (Krusty Burger)  
 
 
 ## Showcase:  
 *The Long Cut App* [Here](https://tbonexas.github.io/longcut)  
+*Krusty Burger (eat-da-burger)* [Here](https://tbonexas.github.io/burger)    
 *Weather Dashboard* [Here](https://tbonexas.github.io/weatherdash)   
 *JavaScript Quiz* [Here](https://tbonexas.github.io/quiz)  
 *Password Generator* [Here](https://tbonexas.github.io/passwordgen)  
