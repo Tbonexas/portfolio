@@ -3,7 +3,7 @@
 ## Portfolio Live:  
 [Todd Wayments Portfolio](https://tbonexas.github.io/portfolio)   
 
-**Updated portfolio:**   
+**Recent updates:**   
 Resume Link    
 Contact information     
 GitHub Link   
