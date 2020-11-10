@@ -1,6 +1,7 @@
 ## Updated Portfolio 
 
 **Updated portfolio:**  
+*Live link here* [Here](https://tbonexas.github.io/portfolio)
 Resume Link    
 Contact information     
 GitHub Link   
