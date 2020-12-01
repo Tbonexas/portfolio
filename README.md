@@ -13,7 +13,7 @@ Burger App (Krusty Burger)
 
 
 ## Showcase: 
-*Snare Music Hosting* [Here}(https://w14project2.herokuapp.com/)  
+*Snare Music Hosting* [Here](https://w14project2.herokuapp.com/)  
 *The Long Cut App* [Here](https://tbonexas.github.io/longcut)  
 *Krusty Burger (eat-da-burger)* [Here](https://tbonexas.github.io/burger)    
 *Weather Dashboard* [Here](https://tbonexas.github.io/weatherdash)   
